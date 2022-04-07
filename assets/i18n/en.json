@@ -1,0 +1,29 @@
+{
+  "meet-the-project" : "Meet our project at:\n",
+  "contact" : "\nContacts:\n",
+  "or" : " or ",
+  "choose-the-source" : "Choose the source:",
+  "presentation-format" : "Presentation Format:",
+
+  "inmetro-source" : "Inmetro's Beacon",
+  "combination-source" : "Combination",
+
+  "combination-warnning" : "By using the Combination of Inmetro, NIST and CLCERT's beacons, the result will be periodically updated every 10 minutes.",
+  "result" : "Result",
+  "radix" : "radix",
+
+  "raw-data" : "Raw Data",
+  "interval" : "Interval",
+  "between-0-and-1" : "Between 0 and 1",
+  "lottery" : "Lottery",
+  "between-0-and-1-label" : "An integer between 0 and ( default is 10):",
+  "last-number" : "Last Number",
+  "qty-drawn-numbers" : "Quantity of drawn numbers (default is 6)?",
+  "lottery-interval-label" : "In the interval between 0 and (default is 60):",
+  "update-pulse-msg" : "The next update will take place in",
+  "minutes" : "minute(s)",
+  "seconds" : "second(s)",
+
+  "updating-result" : "Requesting the last result from chosen source...",
+  "updated-result" :  "Last generated random number loaded!"
+}

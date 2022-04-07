@@ -1,0 +1,29 @@
+{
+  "meet-the-project" : "Conheça nosso projeto em:\n",
+  "contact" : "\nContatos:\n",
+  "or" : " ou ",
+  "choose-the-source" : "Escolha a fonte:",
+  "presentation-format" : "Formato de Apresentação:",
+
+  "inmetro-source" : "Beacon do Inmetro",
+  "combination-source" : "Combinação",
+
+  "combination-warnning" : "Ao usar a combinação de beacons Inmetro, NIST e CLCERT, o resultado será atualizado a cada 10 minutos.",
+  "result" : "Resultado",
+  "radix" : "base",
+
+  "raw-data" : "Dado Cru",
+  "interval" : "Intervalo",
+  "between-0-and-1" : "Entre 0 e 1",
+  "lottery" : "Sorteio",
+  "between-0-and-1-label" : "Inteiro entre 0 e ( padrão é 10):",
+  "last-number" : "Último Número",
+  "qty-drawn-numbers" : "Qtde de números sorteados (padrão é 6)?",
+  "lottery-interval-label" : "No intervalo entre 0 e (padrão é 60):",
+  "update-pulse-msg" : "A próxima atualização será em",
+  "minutes" : "minutos(s)",
+  "seconds" : "segundo(s)",
+
+  "updating-result" : "Buscando último resultado da fonte....",
+  "updated-result" :  "Último número aleatório gerado carregado!"
+}
