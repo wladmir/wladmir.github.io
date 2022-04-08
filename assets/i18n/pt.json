@@ -25,5 +25,8 @@
   "seconds" : "segundo(s)",
 
   "updating-result" : "Buscando último resultado da fonte....",
-  "updated-result" :  "Último número aleatório gerado carregado!"
+  "updated-result" :  "Último número aleatório gerado carregado!",
+
+  "pulse-time"  :   "Data e Hora do Pulso",
+  "waiting-next-pulse"  :   "Aguardando o próximo pulso"
 }

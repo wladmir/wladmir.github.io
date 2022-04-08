@@ -25,5 +25,8 @@
   "seconds" : "second(s)",
 
   "updating-result" : "Requesting the last result from chosen source...",
-  "updated-result" :  "Last generated random number loaded!"
+  "updated-result" :  "Last generated random number loaded!",
+
+  "pulse-time"  :   "Pulse's Date Time",
+  "waiting-next-pulse"  :   "Waiting the next pulse"
 }
